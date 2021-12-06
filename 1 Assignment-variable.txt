@@ -1,0 +1,11 @@
+1.&alpha1-Valid
+2.num1-valid
+3.12Byby-invalid
+4.StringNew-valid
+5.TotalSum_ -valid
+6. DATE-5-invalid
+7.$rankInClass-valid
+8.super$$-valid
+9.Object-invalid
+10.NUM1-valid
+
